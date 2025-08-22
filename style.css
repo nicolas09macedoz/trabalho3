@@ -2,12 +2,16 @@
 
 body {
     font-family: "Varela Round", sans-serif;
-    background: linear-gradient(-45deg, #4d4d4e, #000000, #3a3a3b, #757474);
+    background: linear-gradient(-45deg, #4d4d4e, #2c2c2cb9, #3a3a3b, #757474);
     text-align: center;
 }
 
 h2 {
     color: rgb(255, 255, 255);
+}
+
+h3 {
+    color: white;
 }
 
 h1 {
@@ -51,6 +55,24 @@ img:hover {
   }
 
   .parte4 {
+    background-color: #14141488;
+    border-style: dotted;
+    border-radius: 10px;
+  }
+
+  .parte5 {
+    background-color: #14141488;
+    border-style: dotted;
+    border-radius: 10px;
+  }
+
+  .parte6 {
+    background-color: #14141488;
+    border-style: dotted;
+    border-radius: 10px;
+  }
+
+.parte7 {
     background-color: #14141488;
     border-style: dotted;
     border-radius: 10px;
